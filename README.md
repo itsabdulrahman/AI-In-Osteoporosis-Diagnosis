@@ -1,2 +1,6 @@
-# AI-In-Osteoporosis-Diagnosis
-Comprehensive survey of AI/deep-learning for osteoporosis across medical imaging (X-ray, CT, DXA). Covers task taxonomy (diagnosis, fracture risk), methods (CNNs, Transformers, SSL, XAI), datasets/benchmarks, evaluation metrics, and clinical translation gaps.
+<h1 align="center">Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging</h1>
+<p align="center">
+  Authors:
+  <a href="https://scholar.google.com/citations?user=PqoNrmIAAAAJ&hl=en">Abdul Rahman</a>,
+  <a href="https://scholar.google.com/citations?user=maY0q9IAAAAJ&hl=en">Bumshik Lee</a>
+</p>
